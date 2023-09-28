@@ -124,10 +124,10 @@
     </Item>
     <!-- Police Vehicles Start -->
     <Item>
-      <modelName>policechar</modelName>
-      <txdName>policechar</txdName>
-      <handlingId>policeCHAR</handlingId>
-      <gameName>policeCHAR</gameName>
+      <modelName>npolchar</modelName>
+      <txdName>npolchar</txdName>
+      <handlingId>NPOLCHAR</handlingId>
+      <gameName>NPOLCHAR</gameName>
       <vehicleMakeName>DODGE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -135,7 +135,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>policechar</audioNameHash>
+      <audioNameHash>npolchar</audioNameHash>
       <layout>LAYOUT_STD_STRETCH</layout>
       <coverBoundOffsets>BUFFALO2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -247,10 +247,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policeexp</modelName>
-      <txdName>policeexp</txdName>
-      <handlingId>policeexp</handlingId>
-      <gameName>policeexp</gameName>
+      <modelName>npolexp</modelName>
+      <txdName>npolexp</txdName>
+      <handlingId>npolexp</handlingId>
+      <gameName>npolexp</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -369,9 +369,9 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policeblazer</modelName>
-      <txdName>policeblazer</txdName>
-      <handlingId>policeBLAZER</handlingId>
+      <modelName>npolblazer</modelName>
+      <txdName>npolblazer</txdName>
+      <handlingId>NPOLBLAZER</handlingId>
       <gameName>BLAZER2</gameName>
       <vehicleMakeName>NAGASAKI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -478,10 +478,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policevic</modelName>
-      <txdName>policevic</txdName>
-      <handlingId>policeVIC</handlingId>
-      <gameName>policeVIC</gameName>
+      <modelName>npolvic</modelName>
+      <txdName>npolvic</txdName>
+      <handlingId>NPOLVIC</handlingId>
+      <gameName>NPOLVIC</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -605,10 +605,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policemm</modelName>
-      <txdName>policemm</txdName>
-      <handlingId>policemm</handlingId>
-      <gameName>policemm</gameName>
+      <modelName>npolmm</modelName>
+      <txdName>npolmm</txdName>
+      <handlingId>npolmm</handlingId>
+      <gameName>npolmm</gameName>
       <vehicleMakeName>NAGASAKI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -714,10 +714,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policevette</modelName>
-      <txdName>policevette</txdName>
-      <handlingId>policevette</handlingId>
-      <gameName>policevette</gameName>
+      <modelName>npolvette</modelName>
+      <txdName>npolvette</txdName>
+      <handlingId>npolvette</handlingId>
+      <gameName>npolvette</gameName>
       <vehicleMakeName>CHV</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -824,10 +824,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policechal</modelName>
-      <txdName>policechal</txdName>
-      <handlingId>policechal</handlingId>
-      <gameName>policechal</gameName>
+      <modelName>npolchal</modelName>
+      <txdName>npolchal</txdName>
+      <handlingId>npolchal</handlingId>
+      <gameName>npolchal</gameName>
       <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -934,9 +934,9 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policestang</modelName>
-      <txdName>policestang</txdName>
-      <handlingId>policestang</handlingId>
+      <modelName>npolstang</modelName>
+      <txdName>npolstang</txdName>
+      <handlingId>npolstang</handlingId>
       <gameName>MUSTANG</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1044,10 +1044,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policecoach</modelName>
-      <txdName>policecoach</txdName>
+      <modelName>npolcoach</modelName>
+      <txdName>npolcoach</txdName>
       <handlingId>COACH</handlingId>
-      <gameName>policeCOACH</gameName>
+      <gameName>npolCOACH</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1532,10 +1532,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>policeretinue</modelName>
-      <txdName>policeretinue</txdName>
-      <handlingId>policeRETINUE</handlingId>
-      <gameName>policeRETINUE</gameName>
+      <modelName>npolretinue</modelName>
+      <txdName>npolretinue</txdName>
+      <handlingId>NPOLRETINUE</handlingId>
+      <gameName>NPOLRETINUE</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19816,39 +19816,39 @@
     </Item>
     <Item>
       <parent>vehicles_btype_interior</parent>
-      <child>policevic</child>
+      <child>npolvic</child>
     </Item>
     <Item>
       <parent>vehicles_biker_shared</parent>
-      <child>policemm</child>
+      <child>npolmm</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policeexp</child>
+      <parent>npolvic</parent>
+      <child>npolexp</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policechar</child>
+      <parent>npolvic</parent>
+      <child>npolchar</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policevette</child>
+      <parent>npolvic</parent>
+      <child>npolvette</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policechal</child>
+      <parent>npolvic</parent>
+      <child>npolchal</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policestang</child>
+      <parent>npolvic</parent>
+      <child>npolstang</child>
     </Item>
     <Item>
-      <parent>policevic</parent>
-      <child>policeblazer</child>
+      <parent>npolvic</parent>
+      <child>npolblazer</child>
     </Item>
     <Item>
       <parent>vehshare_truck</parent>
-      <child>policecoach</child>
+      <child>npolcoach</child>
     </Item>
     <Item>
       <parent>vehicles_speedo_interior</parent>
@@ -19864,7 +19864,7 @@
     </Item>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>policeretinue</child>
+      <child>npolretinue</child>
     </Item>
     <Item>
       <parent>vehicles_poltax_interior</parent>
