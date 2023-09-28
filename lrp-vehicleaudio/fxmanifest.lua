@@ -151,12 +151,12 @@ files {
   'audioconfig/f20c_sounds.dat54.rel',
   'sfx/dlc_f20c/f20c.awc',
   'sfx/dlc_f20c/f20c_npc.awc',
-  'audioconfig/npolchar_game.dat151.rel',
-  'audioconfig/npolchar_sounds.dat54.rel',
-  'sfx/dlc_npolchar/npolchar.awc',
-  'sfx/dlc_npolchar/npolchar_npc.awc',
-  'sfx/dlc_npolchar/npolchar2.awc',
-  'sfx/dlc_npolchar/npolchar2_npc.awc',
+  'audioconfig/policechar_game.dat151.rel',
+  'audioconfig/policechar_sounds.dat54.rel',
+  'sfx/dlc_policechar/policechar.awc',
+  'sfx/dlc_policechar/policechar_npc.awc',
+  'sfx/dlc_policechar/policechar2.awc',
+  'sfx/dlc_policechar/policechar2_npc.awc',
   'audioconfig/ecoboostv6_game.dat151.rel',
   'audioconfig/ecoboostv6_sounds.dat54.rel',
   'sfx/dlc_ecoboostv6/ecoboostv6.awc',
@@ -283,9 +283,9 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s85b50'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/f20c_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/f20c_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_f20c'
-data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/policechar_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/policechar_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_policechar'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/ecoboostv6_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/ecoboostv6_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ecoboostv6'

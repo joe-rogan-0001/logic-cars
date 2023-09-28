@@ -104,15 +104,15 @@
     [x] Complete
 
     **Emergency Vehicles:**
-    [x] 2005 Ford Crown Victoria (npolvic)
-    [] 2020 Ford Explorer (npolexplorer)
-    [] 2015 Ford Taurus (npoltaurus)
-    [] 2015 Dodge Charger (npolcharger)
-    [] 2020 Chevrolet Tahoe (npoltahoe)
-    [] 2016 Ford F-150 Raptor Super CrewCab (npolraptor)
-    [x] 2019 Ford Mustang Shelby GT500 (npolmustang)
-    [] 2014 BMW R 1200RT (npolmotor)
-    [] 2013 Harley Davidson Road King (npolmotor2)
+    [x] 2005 Ford Crown Victoria (policevic)
+    [] 2020 Ford Explorer (policeexplorer)
+    [] 2015 Ford Taurus (policetaurus)
+    [] 2015 Dodge Charger (policecharger)
+    [] 2020 Chevrolet Tahoe (policetahoe)
+    [] 2016 Ford F-150 Raptor Super CrewCab (policeraptor)
+    [x] 2019 Ford Mustang Shelby GT500 (policemustang)
+    [] 2014 BMW R 1200RT (policemotor)
+    [] 2013 Harley Davidson Road King (policemotor2)
     [x] AS350 PD Helicopter (as350)
 
     [x] FBI Bravado Buffalo
@@ -1751,7 +1751,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>npolexp</handlingName>
+      <handlingName>policeexp</handlingName>
       <fMass value="2470.00000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -1812,7 +1812,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>NPOLCHAR</handlingName>
+      <handlingName>policeCHAR</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -1870,7 +1870,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>NPOLBLAZER</handlingName>
+      <handlingName>policeBLAZER</handlingName>
       <fMass value="650.000000" />
       <fInitialDragCoeff value="10.00000" />
       <fPercentSubmerged value="85.000000" />
@@ -1948,7 +1948,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>NPOLVIC</handlingName>
+      <handlingName>policeVIC</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -2006,7 +2006,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>npolvette</handlingName>
+      <handlingName>policevette</handlingName>
       <fMass value="1100.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="85.000000" />
@@ -2063,7 +2063,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>npolchal</handlingName>
+      <handlingName>policechal</handlingName>
       <fMass value="1500.000000" />
       <fInitialDragCoeff value="3.0000000" />
       <fPercentSubmerged value="85.000000" />
@@ -2120,7 +2120,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>npolstang</handlingName>
+      <handlingName>policestang</handlingName>
       <fMass value="1915.000000" />
       <fInitialDragCoeff value="3.0000000" />
       <fPercentSubmerged value="85.000000" />
@@ -2692,7 +2692,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>NPOLRETINUE</handlingName>
+      <handlingName>policeRETINUE</handlingName>
       <fMass value="915.000000" />
       <fInitialDragCoeff value="3.0000000" />
       <fPercentSubmerged value="85.000000" />
@@ -14100,7 +14100,7 @@
 
     <!-- 90 = a class, 135 = a+, 169 s+ fInitialDriveMaxFlatVel -->
     <Item type="CHandlingData">
-      <handlingName>npolmm</handlingName>
+      <handlingName>policemm</handlingName>
       <fMass value="255.000000" />
       <fInitialDragCoeff value="15.000000" />
       <fPercentSubmerged value="95.000000" />

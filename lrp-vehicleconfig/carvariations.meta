@@ -270,7 +270,7 @@
     </Item>
     <!-- WiseGuy Police Vehicles -->
     <Item>
-      <modelName>npolchar</modelName>
+      <modelName>policechar</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -374,7 +374,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4155_npolchar_modkit</Item>
+        <Item>4155_policechar_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -387,7 +387,7 @@
       <sirenSettings value="450" />
     </Item>
     <Item>
-      <modelName>npolexp</modelName>
+      <modelName>policeexp</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -491,7 +491,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4057_npolexp_modkit</Item>
+        <Item>4057_policeexp_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -504,7 +504,7 @@
       <sirenSettings value="436" />
     </Item>
     <Item>
-      <modelName>npolblazer</modelName>
+      <modelName>policeblazer</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -543,7 +543,7 @@
       <sirenSettings value="437" />
     </Item>
     <Item>
-      <modelName>npolvic</modelName>
+      <modelName>policevic</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -647,7 +647,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4037_npolvic_modkit</Item>
+        <Item>4037_policevic_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -660,7 +660,7 @@
       <sirenSettings value="437" />
     </Item>
     <Item>
-      <modelName>npolmm</modelName>
+      <modelName>policemm</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -764,7 +764,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4055_npolmm_modkit</Item>
+        <Item>4055_policemm_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -779,7 +779,7 @@
       <sirenSettings value="451" />
     </Item>
     <Item>
-      <modelName>npolvette</modelName>
+      <modelName>policevette</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -843,7 +843,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4051_npolvette_modkit</Item>
+        <Item>4051_policevette_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -856,7 +856,7 @@
       <sirenSettings value="441" />
     </Item>
     <Item>
-      <modelName>npolchal</modelName>
+      <modelName>policechal</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -920,7 +920,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4046_npolchal_modkit</Item>
+        <Item>4046_policechal_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -933,7 +933,7 @@
       <sirenSettings value="441" />
     </Item>
     <Item>
-      <modelName>npolstang</modelName>
+      <modelName>policestang</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -997,7 +997,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>4043_npolstang_modkit</Item>
+        <Item>4043_policestang_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -1045,7 +1045,7 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
-      <modelName>npolcoach</modelName>
+      <modelName>policecoach</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -1192,7 +1192,7 @@
       <sirenSettings value="198" />
     </Item>
     <Item>
-      <modelName>npolretinue</modelName>
+      <modelName>policeretinue</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -1216,7 +1216,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>2252_npolretinue_modkit</Item>
+        <Item>2252_policeretinue_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
