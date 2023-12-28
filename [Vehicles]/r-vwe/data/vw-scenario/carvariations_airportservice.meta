@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- VANILLAWORKS EXTENDED - SCENARIOS PACKAGE - AIRPORT SERVICE PACK - VERSION 3.0 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>vwes_airportcaddy1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+	<Item>
+      <modelName>vwes_airportcaddyxl1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+	<Item>
+      <modelName>vwes_airportferoci1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+	<Item>
+      <modelName>vwes_airportperennial1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+    <Item>
+      <modelName>vwes_airportutil1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="52"/>
+      <sirenSettings value="9"/>
+    </Item>
+    <Item>
+      <modelName>vwes_at3001</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_defaultspraypatch</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>vwes_aviationtanker1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="9" />
+    </Item>
+    <Item>
+      <modelName>vwes_cargoloader1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <lightSettings value="15"/>
+      <sirenSettings value="9"/>
+    </Item>
+    <Item>
+      <modelName>vwes_cargoplane1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <lightSettings value="18"/>
+      <sirenSettings value="0"/>
+    </Item>
+	<Item>
+      <modelName>vwes_catering1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="20" />
+      <sirenSettings value="9" />
+    </Item>
+    <Item>
+      <modelName>vwes_stairtruck1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="52"/>
+      <sirenSettings value="9"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <Items>
+  <Item type="SoundList">
+   <Name>horn_list_forklift2</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>hash_12F08C75</Item>
+   </Items>
+  </Item>
+  <Item type="SoundSet">
+   <Name>forklift2_siren</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <Items>
+    <Item>
+     <ScriptName>blip</ScriptName>
+     <SoundName>hash_EA735820</SoundName>
+    </Item>
+    <Item>
+     <ScriptName>horn</ScriptName>
+     <SoundName>hash_12F08C75</SoundName>
+    </Item>
+    <Item>
+     <ScriptName>hash_4DD32855</ScriptName>
+     <SoundName>null_sound</SoundName>
+    </Item>
+    <Item>
+     <ScriptName>fast</ScriptName>
+     <SoundName>hash_12F08C75</SoundName>
+    </Item>
+    <Item>
+     <ScriptName>slow</ScriptName>
+     <SoundName>hash_0BBCF6DE</SoundName>
+    </Item>
+    <Item>
+     <ScriptName>warning</ScriptName>
+     <SoundName>hash_12F08C75</SoundName>
+    </Item>
+   </Items>
+  </Item>
+ </Items>
+</Dat54>

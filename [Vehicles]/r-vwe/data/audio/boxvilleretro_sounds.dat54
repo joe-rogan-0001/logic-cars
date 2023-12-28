@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <Items>
+  <Item type="SoundList">
+   <Name>horn_list_boxvilleretro</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>hash_595FBDC7</Item>
+   </Items>
+  </Item>
+  <Item type="SoundList">
+   <Name>horn_list_boxvilleretro2</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>hash_821F17D5</Item>
+   </Items>
+  </Item>
+  <Item type="RetriggeredOverlappedSound">
+   <Name>boxvilleretro_reverse_warning</Name>
+   <Header>
+    <Flags value="0x1800C000" />
+    <Unk12 value="10" />
+    <Category>vehicles_horns</Category>
+    <Unk22 value="25" />
+    <Unk23 value="50" />
+   </Header>
+   <UnkShort0 value="65535" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="1000" />
+   <UnkShort3 value="0" />
+   <ParameterHash0 />
+   <ParameterHash1 />
+   <AudioHash0 />
+   <AudioHash1>boxvilleretro_reverse_warning_env</AudioHash1>
+   <AudioHash2 />
+  </Item>
+  <Item type="EnvelopeSound">
+   <Name>boxvilleretro_reverse_warning_env</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA1AAAA" />
+   </Header>
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="200" />
+   <UnkShort3 value="0" />
+   <UnkByte0 value="60" />
+   <UnkByte1 value="0" />
+   <UnkInt0 value="200" />
+   <UnkShort4 value="0" />
+   <UnkInt1 value="-1" />
+   <UnkInt2 value="0" />
+   <CurvesUnkHash0>hash_0D0E6F19</CurvesUnkHash0>
+   <CurvesUnkHash1>hash_94AE4ADD</CurvesUnkHash1>
+   <CurvesUnkHash2>hash_519B71B1</CurvesUnkHash2>
+   <ParameterHash0 />
+   <ParameterHash1 />
+   <ParameterHash2 />
+   <ParameterHash3 />
+   <ParameterHash4 />
+   <AudioHash>hash_A92D2CA1</AudioHash>
+   <UnkInt3 value="0" />
+   <ParameterHash5 />
+   <UnkFloat0 value="-100" />
+   <UnkFloat1 value="0" />
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>police_scanner_category_boxvilleretro2_rnd</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="hash_F003680B" value="1" />
+    <Item key="hash_356A8FDC" value="1" />
+    <Item key="hash_EA8FD739" value="0.5" />
+    <Item key="hash_D7B1AB56" value="0.5" />
+   </Items>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>police_scanner_category_boxvilleretro_rnd</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="hash_356A8FDC" value="1" />
+    <Item key="hash_EA8FD739" value="1" />
+   </Items>
+  </Item>
+ </Items>
+</Dat54>

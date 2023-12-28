@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="6978435" />
+ <Items>
+  <Item type="Vehicle" ntOffset="363702">
+   <Name>sbus2</Name>
+   <Unk00 value="0x90005614" />
+   <Engine>sbus2_engine</Engine>
+   <EngineGranular>sbus2_granular_engine</EngineGranular>
+   <Horns>horn_list_sbus2</Horns>
+   <DoorOpen>vehicles_extras_bus_door_open</DoorOpen>
+   <DoorClose>vehicles_extras_bus_door_close</DoorClose>
+   <TrunkOpen />
+   <TrunkClose />
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="2" />
+   <SuspensionUp>suspension_up</SuspensionUp>
+   <SuspensionDown>suspension_down</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>sbus2_scanner_params</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x07010000" />
+   <IndicatorOn>vehicles_extras_indicator_truck_on</IndicatorOn>
+   <IndicatorOff>vehicles_extras_indicator_truck_off</IndicatorOff>
+   <Handbrake>vehicles_extras_truck_handbrake</Handbrake>
+   <Unk27 value="0x00030001" />
+   <Unk28>parking_tones</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_0BD90476</Unk32>
+   <StartupSequence>hash_B807DF3E</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="4" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0" />
+   <ReverseWarning>sbus2_reverse_warning</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67 />
+   <Unk68>null_sound</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleEngine" ntOffset="363707">
+   <Name>sbus2_engine</Name>
+   <Unk00 value="700" />
+   <Unk01 value="0" />
+   <Unk02 value="400" />
+   <Unk03 value="400" />
+   <EngineLow>vehicles_engine_resident_rig_1_engine_low</EngineLow>
+   <EngineHigh>vehicles_engine_resident_rig_1_engine_high</EngineHigh>
+   <ExhaustLow>vehicles_engine_resident_rig_1_exhaust_low</ExhaustLow>
+   <ExhaustHigh>vehicles_engine_resident_rig_1_exhaust_high</ExhaustHigh>
+   <RevsOff />
+   <Unk09 value="0" />
+   <Unk10 value="1400" />
+   <EngineIdleLoop>vehicles_engine_resident_rig_1_eng_idle_loop</EngineIdleLoop>
+   <ExhaustIdleLoop>vehicles_engine_resident_rig_1_ex_idle_loop</ExhaustIdleLoop>
+   <Unk13 value="0" />
+   <Unk14 value="400" />
+   <AirIntake />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="0" />
+   <Unk23 value="50" />
+   <Transmission>sbus2_gear_transmission</Transmission>
+   <Unk25 value="-200" />
+   <Unk26 value="800" />
+   <Unk27 value="1200" />
+   <Ignition>hash_FBF1D8BA</Ignition>
+   <ShutDown>sbus2_shutdown</ShutDown>
+   <Unk30>null_sound</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32 />
+   <Unk33 value="0" />
+   <FansVolume value="0" />
+   <StartupMaster>sbus2_start_up</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="0" />
+   <Unk43>null_sound</Unk43>
+   <Unk44>null_sound</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>null_sound</DumpValveUpgraded>
+   <Unk52 value="0" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>null_sound</TurboUpgraded>
+   <AirIntakeUpgraded>null_sound</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>null_sound</ExhaustPopsUpgraded>
+  </Item>
+  <Item type="VehicleEngineGranular" ntOffset="12426">
+   <Name>sbus2_granular_engine</Name>
+   <Unk00 value="0xAAAAA904" />
+   <MasterVolume value="100" />
+   <EngineAccel>sbus2_engine_accel</EngineAccel>
+   <ExhaustAccel>sbus2_exhaust_accel</ExhaustAccel>
+   <Unk04 value="0" />
+   <Unk05 value="0" />
+   <Unk06 value="0" />
+   <Unk07 value="0" />
+   <Unk08 value="0" />
+   <Unk09 value="0" />
+   <Unk10 value="0" />
+   <Unk11 value="0" />
+   <Unk12 value="0" />
+   <Unk13 value="500" />
+   <Unk14 value="100" />
+   <Unk15 value="-100" />
+   <Unk16 value="-100" />
+   <Unk17 value="100" />
+   <Unk18 value="0" />
+   <Unk19 value="300" />
+   <Unk20 value="100" />
+   <Unk21 value="30" />
+   <Unk22 value="0.2" />
+   <Unk23 value="0.26" />
+   <Unk24 value="0.2" />
+   <Unk25 value="0.08" />
+   <Unk26 value="0.2" />
+   <Unk27 value="0.6" />
+   <Unk28 value="0.2" />
+   <Unk29 value="0" />
+   <Unk30 value="0" />
+   <EngineSubmix>sbus2_engine_submix</EngineSubmix>
+   <EngineSubmixPreset>sbus2_engine_submix_preset</EngineSubmixPreset>
+   <ExhaustSubmix>sbus2_exhaust_submix</ExhaustSubmix>
+   <ExhaustSubmixPreset>sbus2_exhaust_submix_preset</ExhaustSubmixPreset>
+   <EngineAccelNPC>sbus2_engine_accel_npc</EngineAccelNPC>
+   <ExhaustAccelNPC>sbus2_exhaust_accel</ExhaustAccelNPC>
+   <Unk37>null_sound</Unk37>
+   <Unk38 value="0" />
+   <Unk39 value="0" />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="600" />
+   <Unk43 value="5" />
+   <Unk44 value="2" />
+   <IdleSub>sbus2_veh_idle_sub_supercharged</IdleSub>
+   <Unk46 value="100" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <Unk51 value="0" />
+   <Unk52>hash_B3BAE87C</Unk52>
+   <Unk53>null_sound</Unk53>
+   <Unk54 value="0" />
+   <Unk55 value="0" />
+   <Unk56 value="500" />
+   <Unk57 value="500" />
+   <Unk58 value="1" />
+   <Unk59 value="0.2" />
+  </Item>
+  <Item type="Vehicle" ntOffset="363702">
+   <Name>sbus3</Name>
+   <Unk00 value="0x90005614" />
+   <Engine>sbus3_engine</Engine>
+   <EngineGranular>sbus3_granular_engine</EngineGranular>
+   <Horns>horn_list_sbus3</Horns>
+   <DoorOpen>vehicles_extras_bus_door_open</DoorOpen>
+   <DoorClose>vehicles_extras_bus_door_close</DoorClose>
+   <TrunkOpen>sbus3_trunk_open</TrunkOpen>
+   <TrunkClose>sbus3_trunk_close</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="2" />
+   <SuspensionUp>suspension_up</SuspensionUp>
+   <SuspensionDown>suspension_down</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>sbus3_scanner_params</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x06010000" />
+   <IndicatorOn>vehicles_extras_indicator_truck_on</IndicatorOn>
+   <IndicatorOff>vehicles_extras_indicator_truck_off</IndicatorOff>
+   <Handbrake>vehicles_extras_truck_handbrake</Handbrake>
+   <Unk27 value="0x00030001" />
+   <Unk28>parking_tones</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_0BD90476</Unk32>
+   <StartupSequence>hash_B807DF3E</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="4" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0" />
+   <ReverseWarning>sbus2_reverse_warning</ReverseWarning>
+   <Unk56 value="0" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>sbus3_shutdown_beeps</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67 />
+   <Unk68>null_sound</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleEngine" ntOffset="363707">
+   <Name>sbus3_engine</Name>
+   <Unk00 value="700" />
+   <Unk01 value="0" />
+   <Unk02 value="400" />
+   <Unk03 value="400" />
+   <EngineLow>vehicles_engine_resident_rig_1_engine_low</EngineLow>
+   <EngineHigh>vehicles_engine_resident_rig_1_engine_high</EngineHigh>
+   <ExhaustLow>vehicles_engine_resident_rig_1_exhaust_low</ExhaustLow>
+   <ExhaustHigh>vehicles_engine_resident_rig_1_exhaust_high</ExhaustHigh>
+   <RevsOff />
+   <Unk09 value="0" />
+   <Unk10 value="1400" />
+   <EngineIdleLoop>vehicles_engine_resident_rig_1_eng_idle_loop</EngineIdleLoop>
+   <ExhaustIdleLoop>vehicles_engine_resident_rig_1_ex_idle_loop</ExhaustIdleLoop>
+   <Unk13 value="0" />
+   <Unk14 value="400" />
+   <AirIntake />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="0" />
+   <Unk23 value="50" />
+   <Transmission>sbus2_gear_transmission</Transmission>
+   <Unk25 value="-200" />
+   <Unk26 value="800" />
+   <Unk27 value="1200" />
+   <Ignition>hash_FBF1D8BA</Ignition>
+   <ShutDown>sbus2_shutdown</ShutDown>
+   <Unk30>null_sound</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32 />
+   <Unk33 value="0" />
+   <FansVolume value="0" />
+   <StartupMaster>sbus3_start_up_master</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="0" />
+   <Unk43>null_sound</Unk43>
+   <Unk44>null_sound</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>null_sound</DumpValveUpgraded>
+   <Unk52 value="0" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>sbus3_synth_veh_turbo</TurboUpgraded>
+   <AirIntakeUpgraded>null_sound</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>sbus3_exhaust_pops</ExhaustPopsUpgraded>
+  </Item>
+  <Item type="VehicleEngineGranular" ntOffset="12426">
+   <Name>sbus3_granular_engine</Name>
+   <Unk00 value="0xAAAAA904" />
+   <MasterVolume value="100" />
+   <EngineAccel>sbus2_engine_accel</EngineAccel>
+   <ExhaustAccel>sbus2_exhaust_accel</ExhaustAccel>
+   <Unk04 value="0" />
+   <Unk05 value="0" />
+   <Unk06 value="0" />
+   <Unk07 value="0" />
+   <Unk08 value="0" />
+   <Unk09 value="0" />
+   <Unk10 value="0" />
+   <Unk11 value="0" />
+   <Unk12 value="0" />
+   <Unk13 value="500" />
+   <Unk14 value="100" />
+   <Unk15 value="-100" />
+   <Unk16 value="-100" />
+   <Unk17 value="100" />
+   <Unk18 value="0" />
+   <Unk19 value="300" />
+   <Unk20 value="100" />
+   <Unk21 value="30" />
+   <Unk22 value="0.2" />
+   <Unk23 value="0.26" />
+   <Unk24 value="0.2" />
+   <Unk25 value="0.08" />
+   <Unk26 value="0.2" />
+   <Unk27 value="0.6" />
+   <Unk28 value="0.2" />
+   <Unk29 value="0" />
+   <Unk30 value="0" />
+   <EngineSubmix>sbus2_engine_submix</EngineSubmix>
+   <EngineSubmixPreset>sbus2_engine_submix_preset</EngineSubmixPreset>
+   <ExhaustSubmix>sbus2_exhaust_submix</ExhaustSubmix>
+   <ExhaustSubmixPreset>sbus2_exhaust_submix_preset</ExhaustSubmixPreset>
+   <EngineAccelNPC>sbus2_engine_accel_npc</EngineAccelNPC>
+   <ExhaustAccelNPC>sbus2_exhaust_accel</ExhaustAccelNPC>
+   <Unk37>null_sound</Unk37>
+   <Unk38 value="0" />
+   <Unk39 value="0" />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="600" />
+   <Unk43 value="5" />
+   <Unk44 value="2" />
+   <IdleSub>sbus2_veh_idle_sub_supercharged</IdleSub>
+   <Unk46 value="100" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <Unk51 value="0" />
+   <Unk52>hash_B3BAE87C</Unk52>
+   <Unk53>sbus3_exhaust_pops</Unk53>
+   <Unk54 value="0" />
+   <Unk55 value="0" />
+   <Unk56 value="500" />
+   <Unk57 value="500" />
+   <Unk58 value="1" />
+   <Unk59 value="0.2" />
+  </Item>
+  <Item type="VehicleScannerParams" ntOffset="268820">
+   <Name>sbus2_scanner_params</Name>
+   <Flags value="0xAAAAAAA8" />
+   <Params>
+    <Item>
+     <Unk01>police_scanner_manufacturer_brute_b</Unk01>
+     <Unk02>police_scanner_category_sbus2_rnd</Unk02>
+     <Unk03>police_scanner_category_sbus2_rnd</Unk03>
+     <Unk04>null_sound</Unk04>
+    </Item>
+   </Params>
+  </Item>
+  <Item type="VehicleScannerParams" ntOffset="268820">
+   <Name>sbus3_scanner_params</Name>
+   <Flags value="0xAAAAAAA8" />
+   <Params>
+    <Item>
+     <Unk01>police_scanner_prefix_sbus3_rnd</Unk01>
+     <Unk02>police_scanner_category_sbus3_rnd</Unk02>
+     <Unk03>police_scanner_category_sbus3_rnd</Unk03>
+     <Unk04>police_scanner_prefix_sbus3_rnd</Unk04>
+    </Item>
+   </Params>
+  </Item>
+ </Items>
+</Dat151>

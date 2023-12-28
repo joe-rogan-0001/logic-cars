@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <NameTable>
+    <Item>DLC_HAULER3\HAULER3</Item>
+</NameTable>
+<Items>
+<Item type="GranularSound">
+   <Name>hauler3_engine_accel</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>engine_decel</FileName>
+   </Wave3>
+   <Wave4>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>exhaust_decel</FileName>
+   </Wave4>
+   <Wave5>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="0" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="-200" />
+   <UnkShort5 value="300" />
+   <TrackName />
+   <UnkVecData>
+    7.05, 19.51
+    7.2, 7.2
+   </UnkVecData>
+  </Item>
+  <Item type="EnvironmentSound">
+   <Name>hauler3_exhaust_accel</Name>
+   <Header>
+    <Flags value="0x00208000" />
+    <Category>hash_F7C35252</Category>
+    <Unk18 value="150" />
+   </Header>
+   <UnkByte value="1" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>DLC_HAULER3_hauler3_heavy_gen_vehicle_door_close_01</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+   <FileName>hash_AE114C37</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>DLC_HAULER3_hauler3_heavy_gen_vehicle_door_close_02</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+   <FileName>hash_E4A43960</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hauler3_door_close</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>hauler3_door_close_rnd</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_A8AC4AD9</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hauler3_door_close_rnd</Item>
+    <Item>hash_A8AC4AD9</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>hauler3_door_close_rnd</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>hash_9D5E871B</Category>
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="DLC_HAULER3_hauler3_heavy_gen_vehicle_door_close_02" value="1" />
+    <Item key="DLC_HAULER3_hauler3_heavy_gen_vehicle_door_close_01" value="1" />
+   </Items>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hauler3_shutdown</Name>
+   <Header>
+    <Flags value="0x00008004" />
+    <Unk02 value="65136" />
+    <Category>hash_A7A1137D</Category>
+   </Header>
+   <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+   <FileName>hash_E99B0DCB</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hauler3_start_up_master</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>hauler3_start_up</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_B807DF3E</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hauler3_start_up</Item>
+    <Item>hash_B807DF3E</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hauler3_start_up</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>hash_A7A1137D</Category>
+   </Header>
+   <ContainerName>DLC_HAULER3/hauler3</ContainerName>
+   <FileName>hash_9D64B840</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="ModularSynthSound">
+   <Name>hauler3_synth_veh_idle_sub</Name>
+   <Header>
+    <Flags value="0x00008015" />
+    <Flags2 value="0xAAA8AAAA" />
+    <Unk02 value="64236" />
+    <Unk04 value="1200" />
+    <Category>hash_2432F0D5</Category>
+   </Header>
+   <OptAmpUnkHash>hauler3_sub_idle</OptAmpUnkHash>
+   <UnkHash />
+   <UnkFloat value="-1" />
+   <UnkInt value="0" />
+   <TrackCount value="0" />
+   <AudioTracks>
+    <Item />
+    <Item />
+    <Item />
+    <Item />
+   </AudioTracks>
+   <UnkItems>
+    <Item>
+     <UnkHash>hash_ABD2A3D6</UnkHash>
+     <ParameterHash />
+     <Value value="7.05" />
+    </Item>
+    <Item>
+     <UnkHash>hash_AAED9868</UnkHash>
+     <ParameterHash />
+     <Value value="19.51" />
+    </Item>
+    <Item>
+     <UnkHash>hash_4E132C3B</UnkHash>
+     <ParameterHash />
+     <Value value="1" />
+    </Item>
+    <Item>
+     <UnkHash>hash_18B20B91</UnkHash>
+     <ParameterHash />
+     <Value value="3" />
+    </Item>
+    <Item>
+     <UnkHash>hash_E07986E5</UnkHash>
+     <ParameterHash />
+     <Value value="3.5" />
+    </Item>
+    <Item>
+     <UnkHash>hash_52E84522</UnkHash>
+     <ParameterHash />
+     <Value value="1.5" />
+    </Item>
+    <Item>
+     <UnkHash>hash_8115C581</UnkHash>
+     <ParameterHash />
+     <Value value="2" />
+    </Item>
+    <Item>
+     <UnkHash>hash_24E7B0B4</UnkHash>
+     <ParameterHash />
+     <Value value="10" />
+    </Item>
+    <Item>
+     <UnkHash>hash_D250E3B7</UnkHash>
+     <ParameterHash />
+     <Value value="1" />
+    </Item>
+    <Item>
+     <UnkHash>hash_15857327</UnkHash>
+     <ParameterHash />
+     <Value value="250" />
+    </Item>
+    <Item>
+     <UnkHash>hash_39B29F61</UnkHash>
+     <ParameterHash />
+     <Value value="0.5" />
+    </Item>
+   </UnkItems>
+  </Item>
+  <Item type="ModularSynthSound">
+   <Name>hauler3_synth_veh_turbo</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA8AAAA" />
+   </Header>
+   <OptAmpUnkHash>hauler3_turbo</OptAmpUnkHash>
+   <UnkHash />
+   <UnkFloat value="-1" />
+   <UnkInt value="0" />
+   <TrackCount value="0" />
+   <AudioTracks>
+    <Item />
+    <Item />
+    <Item />
+    <Item />
+   </AudioTracks>
+   <UnkItems />
+  </Item>
+</Items>
+  </Dat54>

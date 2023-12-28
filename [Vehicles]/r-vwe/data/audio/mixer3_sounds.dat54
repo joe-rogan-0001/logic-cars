@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <NameTable>
+  <Item>STREAMED_VEHICLES_GRANULAR\TRUCK_MEDIUM_US_6CYL</Item>
+ </NameTable>
+ <Items>
+  <Item type="GranularSound">
+   <Name>mixer3_engine_accel</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>engine_decel</FileName>
+   </Wave3>
+   <Wave4>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>exhaust_decel</FileName>
+   </Wave4>
+   <Wave5>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>streamed_vehicles_granular/truck_medium_us_6cyl</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="-200" />
+   <UnkShort1 value="-200" />
+   <UnkShort2 value="300" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="0" />
+   <UnkShort5 value="-200" />
+   <TrackName />
+   <UnkVecData>
+    8, 17.63
+    4, 4
+   </UnkVecData>
+  </Item>
+  <Item type="EnvironmentSound">
+   <Name>mixer3_exhaust_accel</Name>
+   <Header>
+    <Flags value="0x00208000" />
+    <Category>hash_F7C35252</Category>
+    <Unk18 value="150" />
+   </Header>
+   <UnkByte value="1" />
+  </Item>
+  <Item type="SoundList">
+   <Name>mixer3_horn_list</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>mixer3_multi_horn</Item>
+   </Items>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>mixer3_multi_horn</Name>
+   <Header>
+    <Flags value="0x0000C000" />
+    <Unk12 value="50" />
+    <Category>hash_6FD0D625</Category>
+   </Header>
+   <AudioHash0>dlc_aw_vehicle_warhorn_synth</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1 />
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>dlc_aw_vehicle_warhorn_synth</Item>
+    <Item />
+   </AudioTracks>
+  </Item>
+ </Items>
+</Dat54>

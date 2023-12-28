@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat10>
+ <Version value="14077981" />
+ <Items>
+  <Item type="Synth" ntOffset="1918">
+   <Name>mixer3_engine_submix</Name>
+   <Flags value="0xAAAAAAAA" />
+   <BuffersCount value="2" />
+   <RegistersCount value="15" />
+   <OutputsCount1 value="1" />
+   <OutputsCount2 value="1" />
+   <StateBlocksCount value="8" />
+   <RuntimeCost value="22" />
+   <Bytecode>
+    11 5E 00 01 01 03 11 5E 01 01 00 03 21 09 02 01
+    00 01 01 01 11 5E 03 01 0A 03 31 37 01 01 02 01
+    01 02 03 01 00 00 11 5E 04 01 0D 03 11 5E 02 01
+    0E 03 51 16 03 01 01 01 04 01 01 02 00 02 01 02
+    31 37 01 01 03 01 02 01 02 02 01 00 11 5E 04 01
+    10 03 11 5E 02 01 0C 03 51 16 05 01 01 01 00 02
+    04 01 00 02 01 02 11 5E 04 01 0B 03 21 54 06 01
+    00 01 02 01 02 00 11 5E 07 01 11 03 31 83 08 01
+    05 01 00 02 03 01 11 5E 09 01 0F 03 71 58 00 00
+    00 02 04 01 03 02 04 02 00 02 01 02 06 01 03 00
+    11 5E 02 01 05 03 31 37 03 01 08 01 09 01 02 02
+    04 00 21 10 05 01 01 02 07 01 31 2D 00 00 05 02
+    02 01 21 09 00 01 03 01 05 01 11 06 02 01 00 00
+    11 5E 03 01 06 03 11 5E 04 01 03 03 21 10 05 01
+    01 01 00 01 31 2F 00 01 02 01 06 02 07 02 11 5E
+    01 01 04 03 31 2F 06 01 04 01 01 02 08 02 31 2F
+    07 01 05 01 09 02 03 01 11 5E 08 01 02 03 11 5E
+    09 01 08 03 35 7A 02 01 03 01 04 01 05 01 0A 01
+    01 01 06 01 00 01 31 2F 0B 01 07 01 06 02 07 02
+    31 2F 0C 01 09 01 01 02 08 02 51 16 0D 01 08 01
+    0A 02 01 02 0B 02 0C 02 01 60 01 00 11 5E 0E 01
+    07 03 35 7C 00 01 01 01 06 01 07 01 08 01 0E 01
+    0C 01 0B 01 31 2F 09 01 0D 01 06 02 07 02 61 3F
+    01 00 02 01 03 01 04 01 05 01 0A 01 05 00 35 3E
+    02 01 03 01 04 01 05 01 0A 01 0D 02 0E 02 09 01
+    61 3F 01 00 00 01 01 01 06 01 07 01 08 01 06 00
+    11 5E 00 01 09 03 61 40 01 00 02 01 03 01 04 01
+    05 01 0A 01 07 00 21 08 01 00 00 01 FF FF 00 00
+   </Bytecode>
+   <Constants>
+    0.102
+    0.862
+    0.6175
+    0.09
+    0.07
+    10
+    20000
+    0.0645
+    0.9
+    0.065
+    0.08
+    80
+    1000.95
+   </Constants>
+   <Variables>
+    <Item>
+     <Name>hash_5B924509</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_EA0151DC</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_1C158A61</Name>
+     <Value value="0" />
+    </Item>
+    <Item>
+     <Name>hash_2F7AF343</Name>
+     <Value value="0.05" />
+    </Item>
+    <Item>
+     <Name>hash_C54BCCF9</Name>
+     <Value value="150" />
+    </Item>
+    <Item>
+     <Name>hash_920D2B46</Name>
+     <Value value="0.03" />
+    </Item>
+    <Item>
+     <Name>hash_0CA0CD3F</Name>
+     <Value value="0.0105" />
+    </Item>
+    <Item>
+     <Name>hash_70D4C292</Name>
+     <Value value="700" />
+    </Item>
+    <Item>
+     <Name>hash_F6DA7E60</Name>
+     <Value value="0.4" />
+    </Item>
+    <Item>
+     <Name>hash_24672FD4</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_AD206324</Name>
+     <Value value="0.102" />
+    </Item>
+    <Item>
+     <Name>hash_967B96A1</Name>
+     <Value value="0.0225" />
+    </Item>
+    <Item>
+     <Name>hash_BDCF0129</Name>
+     <Value value="0.979" />
+    </Item>
+    <Item>
+     <Name>hash_B3DFDDE9</Name>
+     <Value value="0.5" />
+    </Item>
+    <Item>
+     <Name>hash_D0863EBE</Name>
+     <Value value="0.5" />
+    </Item>
+    <Item>
+     <Name>hash_6522CF16</Name>
+     <Value value="15" />
+    </Item>
+    <Item>
+     <Name>hash_38E7B095</Name>
+     <Value value="0.614" />
+    </Item>
+    <Item>
+     <Name>hash_51ED6232</Name>
+     <Value value="0.25" />
+    </Item>
+   </Variables>
+  </Item>
+  <Item type="Preset" ntOffset="1941">
+   <Name>mixer3_engine_submix_preset</Name>
+   <Flags value="0xAAAAAAAA" />
+   <Variables>
+    <Item>
+     <Name>hash_C54BCCF9</Name>
+     <Value1 value="400" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_2F7AF343</Name>
+     <Value1 value="0.1" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_920D2B46</Name>
+     <Value1 value="0.05" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_70D4C292</Name>
+     <Value1 value="200" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_F6DA7E60</Name>
+     <Value1 value="0.6" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_0CA0CD3F</Name>
+     <Value1 value="0.04" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_AD206324</Name>
+     <Value1 value="0.5" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_967B96A1</Name>
+     <Value1 value="0.15" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_BDCF0129</Name>
+     <Value1 value="0.3" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_B3DFDDE9</Name>
+     <Value1 value="0.5" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_38E7B095</Name>
+     <Value1 value="0.65" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_D0863EBE</Name>
+     <Value1 value="0.4" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_6522CF16</Name>
+     <Value1 value="12" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_51ED6232</Name>
+     <Value1 value="0.7" />
+     <Value2 value="0" />
+    </Item>
+   </Variables>
+  </Item>
+  <Item type="Synth" ntOffset="1971">
+   <Name>mixer3_exhaust_submix</Name>
+   <Flags value="0xAAAAAAAA" />
+   <BuffersCount value="2" />
+   <RegistersCount value="15" />
+   <OutputsCount1 value="1" />
+   <OutputsCount2 value="1" />
+   <StateBlocksCount value="8" />
+   <RuntimeCost value="22" />
+   <Bytecode>
+    11 5E 00 01 01 03 11 5E 01 01 00 03 21 09 02 01
+    00 01 01 01 11 5E 03 01 0A 03 31 37 01 01 02 01
+    01 02 03 01 00 00 11 5E 04 01 0D 03 11 5E 02 01
+    0E 03 51 16 03 01 01 01 04 01 01 02 00 02 01 02
+    31 37 01 01 03 01 02 01 02 02 01 00 11 5E 04 01
+    10 03 11 5E 02 01 0C 03 51 16 05 01 01 01 00 02
+    04 01 00 02 01 02 11 5E 04 01 0B 03 21 54 06 01
+    00 01 02 01 02 00 11 5E 07 01 11 03 31 83 08 01
+    05 01 00 02 03 01 11 5E 09 01 0F 03 71 58 00 00
+    00 02 04 01 03 02 04 02 00 02 01 02 06 01 03 00
+    11 5E 02 01 05 03 31 37 03 01 08 01 09 01 02 02
+    04 00 21 10 05 01 01 02 07 01 31 2D 00 00 05 02
+    02 01 21 09 00 01 03 01 05 01 11 06 02 01 00 00
+    11 5E 03 01 06 03 11 5E 04 01 03 03 21 10 05 01
+    01 01 00 01 31 2F 00 01 02 01 06 02 07 02 11 5E
+    01 01 04 03 31 2F 06 01 04 01 01 02 08 02 31 2F
+    07 01 05 01 09 02 03 01 11 5E 08 01 02 03 11 5E
+    09 01 08 03 35 7A 02 01 03 01 04 01 05 01 0A 01
+    01 01 06 01 00 01 31 2F 0B 01 07 01 06 02 07 02
+    31 2F 0C 01 09 01 01 02 08 02 51 16 0D 01 08 01
+    0A 02 01 02 0B 02 0C 02 01 60 01 00 11 5E 0E 01
+    07 03 35 7C 00 01 01 01 06 01 07 01 08 01 0E 01
+    0C 01 0B 01 31 2F 09 01 0D 01 06 02 07 02 61 3F
+    01 00 02 01 03 01 04 01 05 01 0A 01 05 00 35 3E
+    02 01 03 01 04 01 05 01 0A 01 0D 02 0E 02 09 01
+    61 3F 01 00 00 01 01 01 06 01 07 01 08 01 06 00
+    11 5E 00 01 09 03 61 40 01 00 02 01 03 01 04 01
+    05 01 0A 01 07 00 21 08 01 00 00 01 FF FF 00 00
+   </Bytecode>
+   <Constants>
+    0.102
+    0.862
+    0.6175
+    0.09
+    0.07
+    10
+    20000
+    0.0645
+    0.9
+    0.065
+    0.08
+    80
+    1000.95
+   </Constants>
+   <Variables>
+    <Item>
+     <Name>hash_5B924509</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_EA0151DC</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_1C158A61</Name>
+     <Value value="0" />
+    </Item>
+    <Item>
+     <Name>hash_2F7AF343</Name>
+     <Value value="0.05" />
+    </Item>
+    <Item>
+     <Name>hash_C54BCCF9</Name>
+     <Value value="150" />
+    </Item>
+    <Item>
+     <Name>hash_920D2B46</Name>
+     <Value value="0.03" />
+    </Item>
+    <Item>
+     <Name>hash_0CA0CD3F</Name>
+     <Value value="0.0105" />
+    </Item>
+    <Item>
+     <Name>hash_70D4C292</Name>
+     <Value value="700" />
+    </Item>
+    <Item>
+     <Name>hash_F6DA7E60</Name>
+     <Value value="0.4" />
+    </Item>
+    <Item>
+     <Name>hash_24672FD4</Name>
+     <Value value="1" />
+    </Item>
+    <Item>
+     <Name>hash_AD206324</Name>
+     <Value value="0.102" />
+    </Item>
+    <Item>
+     <Name>hash_967B96A1</Name>
+     <Value value="0.0225" />
+    </Item>
+    <Item>
+     <Name>hash_BDCF0129</Name>
+     <Value value="0.979" />
+    </Item>
+    <Item>
+     <Name>hash_B3DFDDE9</Name>
+     <Value value="0.5" />
+    </Item>
+    <Item>
+     <Name>hash_D0863EBE</Name>
+     <Value value="0.5" />
+    </Item>
+    <Item>
+     <Name>hash_6522CF16</Name>
+     <Value value="15" />
+    </Item>
+    <Item>
+     <Name>hash_38E7B095</Name>
+     <Value value="0.614" />
+    </Item>
+    <Item>
+     <Name>hash_51ED6232</Name>
+     <Value value="0.25" />
+    </Item>
+   </Variables>
+  </Item>
+  <Item type="Preset" ntOffset="1995">
+   <Name>mixer3_exhaust_submix_preset</Name>
+   <Flags value="0xAAAAAAAA" />
+   <Variables>
+    <Item>
+     <Name>hash_C54BCCF9</Name>
+     <Value1 value="500" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_2F7AF343</Name>
+     <Value1 value="0.1" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_920D2B46</Name>
+     <Value1 value="0.05" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_70D4C292</Name>
+     <Value1 value="800" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_F6DA7E60</Name>
+     <Value1 value="0.4" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_0CA0CD3F</Name>
+     <Value1 value="0.04" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_AD206324</Name>
+     <Value1 value="0.5" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_967B96A1</Name>
+     <Value1 value="0.15" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_BDCF0129</Name>
+     <Value1 value="0.3" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_B3DFDDE9</Name>
+     <Value1 value="0.5" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_38E7B095</Name>
+     <Value1 value="0.65" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_D0863EBE</Name>
+     <Value1 value="0.4" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_6522CF16</Name>
+     <Value1 value="15" />
+     <Value2 value="0" />
+    </Item>
+    <Item>
+     <Name>hash_51ED6232</Name>
+     <Value1 value="0.6" />
+     <Value2 value="0" />
+    </Item>
+   </Variables>
+  </Item>
+ </Items>
+</Dat10>

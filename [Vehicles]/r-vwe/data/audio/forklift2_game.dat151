@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="6978435" />
+ <Items>
+  <Item type="Vehicle" ntOffset="364665">
+   <Name>forklift2</Name>
+   <Unk00 value="0x90105920" />
+   <Engine>forklift2_engine</Engine>
+   <EngineGranular />
+   <Horns>horn_list_forklift2</Horns>
+   <DoorOpen>null_sound</DoorOpen>
+   <DoorClose>null_sound</DoorClose>
+   <TrunkOpen>null_sound</TrunkOpen>
+   <TrunkClose>null_sound</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="0" />
+   <SuspensionUp>suspension_up</SuspensionUp>
+   <SuspensionDown>suspension_down</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_2039A3BF</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>hash_E14A7914</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x00010004" />
+   <IndicatorOn>null_sound</IndicatorOn>
+   <IndicatorOff>null_sound</IndicatorOff>
+   <Handbrake>hash_8263381C</Handbrake>
+   <Unk27 value="0x00020001" />
+   <Unk28>parking_tones</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_2FF627AC</Unk32>
+   <StartupSequence>hash_B807DF3E</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens>forklift2_siren</Sirens>
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47>hash_83FC62DA</Unk47>
+   <TurretSounds />
+   <Unk49 value="8" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="1" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67 />
+   <Unk68>null_sound</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleEngine" ntOffset="364674">
+   <Name>forklift2_engine</Name>
+   <Unk00 value="1000" />
+   <Unk01 value="100" />
+   <Unk02 value="800" />
+   <Unk03 value="800" />
+   <EngineLow>hash_B68F309C</EngineLow>
+   <EngineHigh>hash_B68F309C</EngineHigh>
+   <ExhaustLow>hash_6C509F9C</ExhaustLow>
+   <ExhaustHigh>hash_B68F309C</ExhaustHigh>
+   <RevsOff>hash_B68F309C</RevsOff>
+   <Unk09 value="-200" />
+   <Unk10 value="400" />
+   <EngineIdleLoop>hash_B68F309C</EngineIdleLoop>
+   <ExhaustIdleLoop>hash_7C64D165</ExhaustIdleLoop>
+   <Unk13 value="-600" />
+   <Unk14 value="1800" />
+   <AirIntake />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="100" />
+   <Unk23 value="100" />
+   <Transmission>null_sound</Transmission>
+   <Unk25 value="0" />
+   <Unk26 value="0" />
+   <Unk27 value="0" />
+   <Ignition>hash_E197103E</Ignition>
+   <ShutDown>null_sound</ShutDown>
+   <Unk30>null_sound</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32>hash_B68F309C</Unk32>
+   <Unk33 value="0" />
+   <FansVolume value="0" />
+   <StartupMaster>null_sound</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="700" />
+   <Unk43>hash_AB78E2E9</Unk43>
+   <Unk44>hash_79AC0C09</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>hash_C0108E98</DumpValveUpgraded>
+   <Unk52 value="700" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>vehicles_engine_resident_turbo_3</TurboUpgraded>
+   <AirIntakeUpgraded>vehicles_extras_air_intake_1</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>hash_0C2B85F2</ExhaustPopsUpgraded>
+  </Item>
+ </Items>
+</Dat151>
